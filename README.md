@@ -13,7 +13,7 @@ Please check your credit usage at: https://platform.openai.com/account/usage
 
 _________________________________
 
-Step 2: Download one of the shortcut files or use the links below.
+Step 2: Download one of the shortcut files or use the links below and paste your API key.
 
 Siri Version
 
