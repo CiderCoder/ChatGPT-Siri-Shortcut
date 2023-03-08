@@ -5,6 +5,14 @@ Step 1: Get your OpenAI API key from:
 
 https://platform.openai.com/account/api-keys
 
+Note: 
+
+OpenAI offers either $18 or $5 in credits for a 3-month free trial.
+
+Please check your credit usage at: https://platform.openai.com/account/usage
+
+_________________________________
+
 Step 2: Download one of the shortcut files or use the links below.
 
 The Other Assistant for Siri
@@ -22,6 +30,8 @@ Note:
 2.Answer CAN be copied directly using the button version.
 
 3.Using the button version for Siri may cause errors and interrupt the system.
+
+_________________________________
 
 Step 3:How to Use
 
@@ -47,11 +57,15 @@ Step 3:How to Use
 
 4.Tap "ChatGPT Button" on your homescreen.
 
+_________________________________
+
 Step 4: Chat History
 
 The chat history will be saved to your iPhone's local address in a folder named 'Chat History'.
 
 The chat history will be classified by date.
+
+_________________________________
 
 Step 5: Give me a star and buy me a coffee to support me❤️
 
