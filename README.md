@@ -15,21 +15,21 @@ _________________________________
 
 Step 2: Download one of the shortcut files or use the links below.
 
-The Other Assistant for Siri
+Siri Version
 
 https://www.icloud.com/shortcuts/9f38f7e5807348a08c1d00bc0ee2e240
 
-ChatGPT Button can be added to homescreen
+Homescreen Button Version
 
 https://www.icloud.com/shortcuts/2c422fba4eb1411dba5564bed506e70f
 
 Note:
 
-1.Answer cannot be copied directly using the Siri version.
+1.Siri version also can be added to home screen as a button.
 
-2.Answer CAN be copied directly using the button version.
+2.Answer cannot be copied directly using the Siri version.
 
-3.Using Siri for the button version may cause errors and interrupt the system.
+3.Answer CAN be copied directly using the button version.
 
 _________________________________
 
