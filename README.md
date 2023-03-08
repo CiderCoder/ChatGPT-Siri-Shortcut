@@ -33,7 +33,7 @@ Note:
 
 _________________________________
 
-Step 3:How to Use
+Step 3: How to Use
 
 -Siri Version
 
