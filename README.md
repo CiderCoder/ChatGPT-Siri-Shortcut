@@ -5,7 +5,7 @@ Step 1: Get your OpenAI API key from:
 
 https://platform.openai.com/account/api-keys
 
-Step 2: Download one of the shortcut files or use the link below.
+Step 2: Download one of the shortcut files or use the links below.
 
 The Other Assistant for Siri
 
@@ -17,17 +17,17 @@ https://www.icloud.com/shortcuts/2c422fba4eb1411dba5564bed506e70f
 
 Note:
 
-1.Answer can't be copied directly by using siri version.
+1.Answer cannot be copied directly using the Siri version.
 
-2.Answer CAN be copied directly by using button version.
+2.Answer CAN be copied directly using the button version.
 
-3.Using button version for Siri may cause errors and interrupt the system. 
+3.Using the button version for Siri may cause errors and interrupt the system.
 
 Step 3:How to Use
 
 -Siri Version
 
-1.Run the shorcut once by tapping it in Shortcut APP to Allow access .
+1.Run the shorcut once by tapping it in the Shortcut APP to Allow access .
 
 2.Say "Hey Siri".
 
@@ -35,13 +35,13 @@ Step 3:How to Use
 
 4.Note that Siri may interrupt the long wait for ChatGPT to generate an answer.
 
-5.Consider ask it to give short answer.
+5.Consider asking for a short answer.
 
 -Button Version
 
-1.Tap "..." on Top right corner of the "ChatGPT Button" shortcut.
+1.Tap "..." on the top right corner of the "ChatGPT Button" shortcut.
 
-2.Tap "i" on lower side of the window.
+2.Tap "i" on the lower side of the window.
 
 3.Tap "Add to Home Screen".
 
@@ -49,8 +49,9 @@ Step 3:How to Use
 
 Step 4: Chat History
 
-The chat history will be saved to a local address on your iPhone with the folder name 'Chat History'.
-The chat history will be classified by date and stored in a file named 'date.txt'.
+The chat history will be saved to your iPhone's local address in a folder named 'Chat History'.
+
+The chat history will be classified by date.
 
 Step 5: Give me a star and buy me a coffee to support me❤️
 
