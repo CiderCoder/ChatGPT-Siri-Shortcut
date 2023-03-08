@@ -29,7 +29,7 @@ Note:
 
 2.Answer CAN be copied directly using the button version.
 
-3.Using the button version for Siri may cause errors and interrupt the system.
+3.Using Siri for the button version may cause errors and interrupt the system.
 
 _________________________________
 
